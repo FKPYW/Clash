@@ -1,0 +1,18 @@
+# 直连列表
+
+# DSM
+DOMAIN-SUFFIX,xdsm.ml
+
+# 域名关键词直连
+DOMAIN-KEYWORD,xdsm
+DOMAIN-KEYWORD,dsm
+
+# 常用网站
+DOMAIN-SUFFIX,mac-torrents.io
+DOMAIN-SUFFIX,torrentmac.net
+DOMAIN-SUFFIX,mactorrent.co
+DOMAIN-SUFFIX,masuit
+DOMAIN-KEYWORD,mac-torrents
+DOMAIN-KEYWORD,torrentmac
+DOMAIN-KEYWORD,mactorrent
+DOMAIN-KEYWORD,masuit
