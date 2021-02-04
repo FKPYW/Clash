@@ -19,11 +19,3 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,services.gradle.org
-DOMAIN-SUFFIX,gradle.org
-DOMAIN-SUFFIX,split.io
-DOMAIN-SUFFIX,sdk.split.io
-
-DOMAIN-KEYWORD,gradle
-
-IP-CIDR,91.108.56.131/16,no-resolve
