@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,xdsm.ml
 DOMAIN-SUFFIX,dsm.xdsm.ml
 DOMAIN-SUFFIX,filebrowser.xdsm.ml
 DOMAIN-SUFFIX,freshrss.xdsm.ml
+DOMAIN-SUFFIX,librespeed.xdsm.ml
 # 域名关键词直连
 DOMAIN-KEYWORD,xdsm
 DOMAIN-KEYWORD,dsm
